@@ -1,6 +1,7 @@
 # Resume
+![](Aspose.Words.d7e702c4-3295-4562-a859-82ec78e11d06.001.png)
 
-**NITESH KUMAR SAHU   ![](Aspose.Words.d7e702c4-3295-4562-a859-82ec78e11d06.001.png)**
+**NITESH KUMAR SAHU**
                                                                                                                                   
 Address: #51, 1st Main, 8th Cross, B.NAGASANDRA,   
 
@@ -14,8 +15,6 @@ To be a part of an organization where get a chance to use my knowledge and skill
 
 **EDUCATION QUALIFICATION** 
 
-
-
 |**Course** |**Institution** |**Marks Obtained** |**Passed out Year** |
 | - | - | :- | :- |
 |<p>M.C.A </p><p>(Master Of Computer Application) </p>|CMR Institute of Technology, Bangalore|** Pursuing |2022 (Pursuing) |
@@ -26,6 +25,7 @@ To be a part of an organization where get a chance to use my knowledge and skill
 **Technical Skills** 
 
 Languages: C, C++, Java, HTML, CSS, Javascript Operating System: Windows 7/8/10 Database: MYSQL, Oracle 
+
 
 **PROJECTS** 
 
