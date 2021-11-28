@@ -1,7 +1,9 @@
 # Cover-letter
 **Nitesh Kumar Sahu ![](Aspose.Words.fd6ddbf4-836e-4248-a5ef-380133a9350a.001.png)**
 
-BANGALORE, INDIA. +916363124639 
+BANGALORE, INDIA.
+
++916363124639 
 
 nitesa20mca@cmrit.ac.in 
 
