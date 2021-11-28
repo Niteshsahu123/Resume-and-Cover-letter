@@ -9,7 +9,9 @@ Address: #51, 1st Main, 8th Cross, B.NAGASANDRA,
 
 Email ID:[ nitesa20mca@cmrit.ac.in ](mailto:nitesa20mca@cmrit.ac.in) 
 
-Mobile No: +91 636 312 4639  **CAREER OBJECTIVE** 
+Mobile No: +91 636 312 4639  
+
+**CAREER OBJECTIVE** 
 
 To be a part of an organization where get a chance to use my knowledge and skills to contribute in the progress of the organization as well as myself. 
 
@@ -24,7 +26,9 @@ To be a part of an organization where get a chance to use my knowledge and skill
 
 **Technical Skills** 
 
-Languages: C, C++, Java, HTML, CSS, Javascript Operating System: Windows 7/8/10 Database: MYSQL, Oracle 
+Languages: C, C++, Java, HTML, CSS, Javascript 
+
+Operating System: Windows 7/8/10 Database: MYSQL, Oracle 
 
 
 **PROJECTS** 
@@ -81,7 +85,7 @@ Permanent Address               :Vill+Po- Baghima, PS- Palkot, Dist- Gumla, Jhar
 
 Languages Known                  :English, Hindi, Nagpuri 
 
-Hobbies                                    : Music, Badminton, Playing With Numbers 
+**Hobbies**                                    : Music, Badminton, Playing With Numbers 
 
 **REFERENCE** 
 
@@ -89,10 +93,9 @@ Hobbies                                    : Music, Badminton, Playing With Numb
 - Designation: Head Of Department, MCA
 - Email ID:[ hod.mca@cmrit.ac.in ](mailto:hod.mca@cmrit.ac.in)
 - Phone No: +91 897 118 6669 
--
+
+
 -  Name: Dr. Helen Josephine V L 
 -  Designation: Associate Professor 
-
-Email ID: helen.j@cmrit.ac.in 
-
-Phone No:+91 910 887 3478 
+- Email ID: helen.j@cmrit.ac.in 
+- Phone No:+91 910 887 3478 
