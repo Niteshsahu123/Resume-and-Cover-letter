@@ -7,7 +7,8 @@ nitesa20mca@cmrit.ac.in
 
 To, 
 
-The Hiring Manager  Ontum Education. 
+The Hiring Manager  
+Ontum Education Bangalore 
 
 Dear Sir/Madam,  
 
